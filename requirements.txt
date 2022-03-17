@@ -1,0 +1,7 @@
+flask-script
+flask-migrate
+flask-rest-api
+marshmallow == 3.0.0b19
+marshmallow-sqlalchemy
+marshmallow-enum
+psycopg2
